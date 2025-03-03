@@ -3,8 +3,8 @@ import static org.assertj.core.api.Assertions.assertThatCode;
 
 import java.util.ArrayList;
 import org.junit.jupiter.api.Test;
-import practice.SimpleArrayList;
-import practice.SimpleList;
+import collection.SimpleArrayList;
+import collection.SimpleList;
 
 public class ArrayListStudy {
 

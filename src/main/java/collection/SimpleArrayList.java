@@ -1,4 +1,4 @@
-package practice;
+package collection;
 
 import java.util.Arrays;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package practice;
+package collection;
 
 public interface SimpleList {
 

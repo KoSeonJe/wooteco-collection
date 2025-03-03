@@ -2,8 +2,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 import java.util.ArrayList;
 import org.junit.jupiter.api.Test;
-import practice.SimpleLinkedList;
-import practice.SimpleList;
+import collection.SimpleLinkedList;
+import collection.SimpleList;
 
 public class LinkedListStudy {
 
